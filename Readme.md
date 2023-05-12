@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="KirtiKamal.jpg" width="200" height="200" alt="Logo">
-</p>
 
 <h1 align="center">Kirti Kamal</h1>
 
