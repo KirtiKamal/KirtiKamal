@@ -78,16 +78,16 @@
 </p>
 
 <p align="center">
-  <a href="[Insert your GitHub profile URL]" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="[Insert your LinkedIn profile URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="[Insert your email address]" target="_blank"><img src="https://img.shields.io/badge/Email-D14836
+  <a href="https://github.com/KirtiKamal" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kirtikamal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Email-D14836
 ?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!-- give the same as above for twitter -->
-  <a href="[Insert your Twitter profile URL]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/KirtiKamal12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <!-- give the same as above for hashnode -->
-    <a href="[Insert your Hashnode profile URL]" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+    <a href="https://kirtikamal.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <!-- give the same as above for stackoverflow -->
-    <a href="[Insert your StackOverflow profile URL]" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+    <a href="https://stackoverflow.com/users/19119239/kirti-kamal" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
 
 </p>
 
