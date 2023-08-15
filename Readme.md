@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://kirtikamal.hashnode.dev/](https://kirtikamal.hashnode.dev/)
 
-- 📫 How to reach me **https://kirtikamal.tech/**
+- 📫 How to reach me **https://kirtikamalsahoo.vercel.app/**
 ## Table of Contents
 
 - [Skills](#skills)
