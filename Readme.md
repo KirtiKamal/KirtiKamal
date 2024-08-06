@@ -12,9 +12,9 @@
 
 👨‍💻 All of my projects are available at [https://github.com/KirtiKamal](https://github.com/KirtiKamal)
 
-- 📝 I regularly write articles on [https://kirtikamal.hashnode.dev/](https://kirtikamal.hashnode.dev/)
+- 📝 I regularly write articles on [https://decodedevs.hashnode.dev/](https://decodedevs.hashnode.dev/)
 
-- 📫 How to reach me **https://kirtikamalsahoo.vercel.app/**
+- 📫 How to reach me **https://www.kirtikamal.me/**
 ## Table of Contents
 
 - [Skills](#skills)
