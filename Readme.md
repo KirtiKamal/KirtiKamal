@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://decodedevs.hashnode.dev/](https://decodedevs.hashnode.dev/)
 
-- 📫 How to reach me **https://www.kirtikamal.me/**
+- 📫 How to reach me **https://www.kirtikamal.in/**
 ## Table of Contents
 
 - [Skills](#skills)
